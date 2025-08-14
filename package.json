@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/juego-inteligente-en",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a juego-inteligente-en",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/juego-inteligente-en.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/juego-inteligente-poker-digital/"
+    },
+    "homepage": "https://bitcu.co/juego-inteligente-poker-digital/"
+}
